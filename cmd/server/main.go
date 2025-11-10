@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/bootdotdev/learn-pub-sub-starter/internal/pubsub"
-	"github.com/bootdotdev/learn-pub-sub-starter/internal/routing"
+	"github.com/samassembly/learn-pub-sub-starter/internal/pubsub"
+	"github.com/samassembly/learn-pub-sub-starter/internal/routing"
     amqp "github.com/rabbitmq/amqp091-go"
 )
 
